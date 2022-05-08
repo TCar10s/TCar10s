@@ -1,16 +1,16 @@
-### Hi there 👋
+### <strong>About me</strong>
 
-<!--
-**TCar10s/TCar10s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front-end developer with a passion for creating beautiful and functional web applications.
+I have a strong background in web development and have worked with a variety of
+technologies, including HTML, CSS, JavaScript, Angular, and Node.js.
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/TCar10s?style=social)
+[![Linkedin:Carlos Samuel Lobo Silva](https://img.shields.io/badge/Carlos-Lobo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-lobos/)](https://www.linkedin.com/in/carlos-lobos/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’am currently working on Frontend Web development with <strong>Angular</strong>.
+- 🌱 I’am currently learning backend development with <strong>NestJS</strong>.
+- 💬 Ask me about <strong>JavaScript, TypeScript, Angular and NestJS</strong>
+
+<br/>
+
+<a href="mailto:cslobosilva@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
